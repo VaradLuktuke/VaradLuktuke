@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VaradLuktuke, currently studying Masters in Data Science at University of Colorado Boulder.
+- 👋 Hi, I’m @VaradLuktuke, a recent graduate in Masters in Data Science from University of Colorado Boulder.
 - Feel free to reach out :)
 
 
