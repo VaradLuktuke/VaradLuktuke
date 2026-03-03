@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VaradLuktuke, a recent graduate in Masters in Data Science from University of Colorado Boulder.
+- 👋 Hi, I’m @VaradLuktuke, a graduate with Masters in Data Science from University of Colorado Boulder.
 - Currently working in Deque Systems, Inc. as a Data Scienist 📊🤖🦾
 - Feel free to reach out :)
 
